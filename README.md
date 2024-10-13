@@ -1,7 +1,7 @@
 <div align="center"> 
   
 ####  :wave: Welcome my github profile !
-
+## 현재 공부중인 학생 개발자 입니다. 
   
  <br/>
  <br/>
