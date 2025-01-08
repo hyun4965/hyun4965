@@ -2,7 +2,8 @@
   
 ####  :wave: Welcome my github profile !
 ## 현재 공부중인 학생 개발자 입니다.
-  
+
+  <img src="https://github.com/user-attachments/assets/8af67862-9f4d-485b-a0c7-5b866260818c" width="200" height="200"/>
  <br/>
  <br/>
   
