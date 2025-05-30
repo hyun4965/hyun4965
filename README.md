@@ -23,9 +23,9 @@
 | 프로젝트명 | 설명 | 기간 | 링크 |
 |------------|------|------|------|
 | **Info** | 1인가구 정보제공 서비스 | 2025.02 ~  | - |
-| **ZeroPick** | 영양성분과 원재료 분석 서비스 | 2025.03 ~ 2025.06 | [GitHub](https://github.com/capstoneMJU) / [서비스](https://zero-pick-seven.vercel.app/login) |
+| **ZeroPick** | 영양성분과 원재료 분석 서비스 | 2025.03 ~ 2025.06 | [GitHub](https://github.com/capstoneMJU) / [서비스](https://zero-pick-seven.vercel.app/login) / [노션](https://www.notion.so/1c3538035ee6801aa6e2d67bcbe86cf9) |
 | **Sweav** | 운동 기록 관리 시스템 | 2025.05 ~  | - |
-
+<!-- [노션](https://www.notion.so/Sweav-1f0538035ee6808c8f51cd59e9f4278b?source=copy_link) -->
 
 <!--
 ## 🚀 주요 프로젝트
