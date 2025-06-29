@@ -1,22 +1,28 @@
 <div align="center"> 
   
 ####  :wave: Welcome
-## 현재 공부중인 학생 개발자 입니다!!!
+###  열심히 성장 중인 학생 개발자입니다 
+꾸준히 공부하고, 기록하고, 나누는 것을 좋아합니다  
+
 
 <!--<img src="https://github.com/user-attachments/assets/8af67862-9f4d-485b-a0c7-5b866260818c" width="400" height="400"/> -->
 
   
 ####  :clipboard: Once I've Used 
+
+## 💻 Tech Stack & Tools
   
- <br/>
-  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-   <br/>
-   <br/>
+### 📌 Back-End
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+
+### 🧪 Dev Tools
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
 
 
 ## 🚀 주요 프로젝트
