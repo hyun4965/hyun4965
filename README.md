@@ -2,7 +2,7 @@
   
 ####  :wave: Welcome
 ###  열심히 성장 중인 학생 개발자입니다.
-꾸준히 공부하고, 기록하고, 나누는 것을 좋아합니다!
+꾸준히 공부하고, 기록하고, 나누는 것을 좋아합니다.
 
 
 <!--<img src="https://github.com/user-attachments/assets/8af67862-9f4d-485b-a0c7-5b866260818c" width="400" height="400"/> -->
