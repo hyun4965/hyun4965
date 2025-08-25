@@ -31,10 +31,10 @@
 | **데이터베이스 심화** | 회사내 데이터 정리 프로젝트 | 2024.09 ~ 2024.12  | - |
 | **Info** | 1인가구 정보제공 서비스 | 2025.02 ~  | - |
 | **ZeroPick** | 영양성분과 원재료 분석 서비스 | 2025.03 ~ 2025.06 | [GitHub](https://github.com/capstoneMJU)  <!--[서비스](https://zero-pick-seven.vercel.app/login) -->
-| **Sweav** | 운동 기록 관리 시스템 | 2025.05 ~  | - |
+| **Sweav** | 운동 기록 관리 시스템 | 2025.05 ~  | [Notion](https://www.notion.so/Sweav-1f0538035ee6808c8f51cd59e9f4278b?source=copy_link) |
 | **Loop** | 해외 학교 커뮤니티 | 2025.07 ~  2025.08|  [GitHub](https://github.com/Loop-project) , [Notion](https://www.notion.so/Loop-23e538035ee680919d5fea12b48e8502?source=copy_link) |
 | **PairUp** | 스포츠 및 콘서트 동행 | 2025.08 ~  | - |
-<!-- [노션](https://www.notion.so/Sweav-1f0538035ee6808c8f51cd59e9f4278b?source=copy_link) <!-- [노션](https://www.notion.so/1c3538035ee6801aa6e2d67bcbe86cf9) |-->
+
 
 <!--
 ## 🚀 주요 프로젝트
