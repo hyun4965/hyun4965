@@ -105,7 +105,7 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://solved.ac/bjh4966/">
+      <a href="https://solved.ac/bjh4965/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4966" width="80%" />
       </a>
     </td>
