@@ -24,7 +24,7 @@
 </div>
 
 <br>
-
+<!--
 <h3>🚀 Featured Projects</h3>
 <table width="100%">
     <thead align="center">
@@ -90,6 +90,57 @@
         </tr>
     </tbody>
 </table>
+-->
+<h3>🚀 Featured Projects</h3>
+<table width="100%">
+    <thead align="center">
+        <tr>
+            <th width="15%">Project</th>
+            <th width="35%">Description</th>
+            <th width="30%">Tech Stack</th>
+            <th width="20%">Period</th>
+        </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td><b>DB 심화</b></td>
+            <td>사내 데이터베이스 정규화 및 마이그레이션</td>
+            <td>MySQL</td>
+            <td>24.09 ~ 24.12</td>
+        </tr>
+        <tr>
+            <td><b>Info</b></td>
+            <td>1인 가구를 위한 정보 제공 서비스</td>
+            <td>Spring Boot, JPA</td>
+            <td>24.12 ~ 25.02</td>
+        </tr>
+        <tr>
+            <td><b>ZeroPick</b></td>
+            <td>영양성분/원재료 분석 및 대체식 추천</td>
+            <td>Spring Boot, OpenAPI</td>
+            <td>25.03 ~ 25.06</td>
+        </tr>
+        <tr>
+            <td><b>Sweav</b></td>
+            <td>개인 맞춤형 운동 기록 관리 시스템</td>
+            <td>Spring Boot, JPA </td>
+            <td>25.05 ~ 25.08</td>
+        </tr>
+        <tr>
+            <td><b>Loop</b></td>
+            <td>유학생 커뮤니티 (실시간 채팅/알림)</td>
+            <td>Spring Boot, JPA, WebSocket, AWS, Docker, TailwindCSS, React</td>
+            <td>25.07 ~ 25.09</td>
+        </tr>
+        <tr>
+            <td><b>PairUp</b></td>
+            <td>스포츠 및 콘서트 동행 매칭 서비스</td>
+            <td>-</td>
+            <td>25.08 ~ Now</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <br>
 
