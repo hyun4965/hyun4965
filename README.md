@@ -105,31 +105,31 @@
         <tr>
             <td><b>DB 심화</b></td>
             <td>사내 데이터베이스 정규화 및 마이그레이션</td>
-            <td>MySQL</td>
+            <td>Oracle</td>
             <td>24.09 ~ 24.12</td>
         </tr>
         <tr>
             <td><b>Info</b></td>
             <td>1인 가구를 위한 정보 제공 서비스</td>
-            <td>Spring Boot, JPA</td>
+            <td>Spring Boot, JPA, MySQL</td>
             <td>24.12 ~ 25.02</td>
         </tr>
         <tr>
             <td><b>ZeroPick</b></td>
             <td>영양성분/원재료 분석 및 대체식 추천</td>
-            <td>Spring Boot, OpenAPI</td>
+            <td>Spring Boot, OpenAPI, MySQL</td>
             <td>25.03 ~ 25.06</td>
         </tr>
         <tr>
             <td><b>Sweav</b></td>
             <td>개인 맞춤형 운동 기록 관리 시스템</td>
-            <td>Spring Boot, JPA </td>
+            <td>Spring Boot, JPA, MySQL </td>
             <td>25.05 ~ 25.08</td>
         </tr>
         <tr>
             <td><b>Loop</b></td>
             <td>유학생 커뮤니티 (실시간 채팅/알림)</td>
-            <td>Spring Boot, JPA, WebSocket, AWS, Docker, TailwindCSS, React</td>
+            <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, TailwindCSS, React</td>
             <td>25.07 ~ 25.09</td>
         </tr>
         <tr>
