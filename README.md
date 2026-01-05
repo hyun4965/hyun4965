@@ -130,7 +130,7 @@
             <td><b>Loop</b></td>
             <td>유학생을 위한 커뮤니티</td>
             <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, TailwindCSS, React</td>
-            <td>25.07 ~ 25.09</td>
+            <td>~ Now</td>
         </tr>
         <tr>
             <td><b>PairUp</b></td>
