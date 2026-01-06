@@ -154,8 +154,8 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://solved.ac/bjh4966/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4966" height="160px" />
+        <a href="https://solved.ac/bjh4965/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4965" height="160px" />
         </a>
       </td>
     </tr>
@@ -171,9 +171,6 @@
   </a>
   <a href="mailto:seokhyun4965@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gohh__h/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
