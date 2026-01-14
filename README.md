@@ -154,8 +154,8 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://solved.ac/bjh4965/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4965" height="160px" />
+        <a href="https://solved.ac/bjh4966/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4966" height="160px" />
         </a>
       </td>
     </tr>
