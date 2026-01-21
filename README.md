@@ -135,7 +135,7 @@
         <tr>
             <td><b>PairUp</b></td>
             <td>스포츠 및 콘서트 동행 매칭 서비스</td>
-            <td>-</td>
+            <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, Redis</td>
             <td>25.08 ~ Now</td>
         </tr>
     </tbody>
