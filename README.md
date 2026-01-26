@@ -148,11 +148,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="50%">
+      <!-- <td align="center" width="50%">
         <a href="https://github.com/hyun4965">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyun4965&theme=tokyonight&hide_border=true&background=20232A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160px" />
         </a>
-      </td>
+      </td> -->
       <td align="center" width="50%">
         <a href="https://solved.ac/bjh4966/">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh4966" height="160px" />
