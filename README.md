@@ -136,7 +136,13 @@
             <td><b>PairUp</b></td>
             <td>스포츠 및 콘서트 동행 매칭 서비스</td>
             <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, Redis</td>
-            <td>25.08 ~ Now</td>
+            <td>25.08 ~ 25.12</td>
+        </tr>
+          <tr>
+            <td><b>AskALAbot</b></td>
+            <td>Chat Bot Service</td>
+            <td>Spring Boot, JPA, WebSocket, AWS, PostgreSQL, Docker, Redis, RAG, LLM, React</td>
+            <td>26.02 ~ Now</td>
         </tr>
     </tbody>
 </table>
