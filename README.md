@@ -132,12 +132,12 @@
             <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, TailwindCSS, React</td>
             <td>25.07 ~ Now</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td><b>PairUp</b></td>
             <td>스포츠 및 콘서트 동행 매칭 서비스</td>
             <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, Redis</td>
             <td>25.08 ~ 25.12</td>
-        </tr>
+        </tr> -->
           <tr>
             <td><b>AskALAbot</b></td>
             <td>Chat Bot Service</td>
