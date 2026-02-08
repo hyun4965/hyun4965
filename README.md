@@ -111,19 +111,19 @@
         <tr>
             <td><b>Info</b></td>
             <td>1인 가구를 위한 정보 제공 서비스</td>
-            <td>Spring Boot, JPA, MySQL</td>
+            <td>Spring Boot, JPA, MySQL, Docker</td>
             <td>24.12 ~ 25.02</td>
         </tr>
         <tr>
             <td><b>ZeroPick</b></td>
             <td>영양성분/원재료 분석 및 정보제공 서비스</td>
-            <td>Spring Boot, OpenAPI, MySQL</td>
+            <td>Spring Boot, OpenAPI, MySQL, OpenAI, Docker</td>
             <td>25.03 ~ 25.06</td>
         </tr>
         <tr>
             <td><b>Sweav</b></td>
             <td>개인 맞춤형 운동 기록 관리 시스템</td>
-            <td>Spring Boot, JPA, MySQL </td>
+            <td>Spring Boot, JPA, MySQL, Docker, Flyway </td>
             <td>25.05 ~ 25.08</td>
         </tr>
         <tr>
