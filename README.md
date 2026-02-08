@@ -53,7 +53,7 @@
         </tr>
         <tr>
             <td><b>ZeroPick</b></td>
-            <td>영양성분/원재료 분석 및 대체식 추천</td>
+            <td>영양성분/원재료 분석 및 대체식 추천 서비스</td>
             <td>Spring Boot, OpenAPI</td>
             <td>25.03 ~ 25.06</td>
             <td>
@@ -81,7 +81,7 @@
         </tr>
         <tr>
             <td><b>PairUp</b></td>
-            <td>스포츠 및 콘서트 동행 매칭 서비스</td>
+            <td>스포츠 동행 매칭 서비스</td>
             <td>-</td>
             <td>25.08 ~ Now</td>
             <td>
