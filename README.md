@@ -97,13 +97,7 @@
             <td>Spring Boot, JPA, WebSocket, AWS, MySQL, Docker, Redis</td>
             <td>25.08 ~ 25.12</td>
         </tr>
-          <tr>
-            <td><b>AskALAbot</b></td>
-            <td>Chat Bot Service</td>
-            <td>Spring Boot, JPA, WebSocket, AWS, PostgreSQL, Docker, Redis, RAG, LLM, React</td>
-            <td>26.02 ~ Now</td>
-        </tr>
-      <tr>
+        <tr>
             <td><b>VoiceTwin</b></td>
             <td>AI 음성 복제 및 실시간 번역 서비스</td>
             <td>Spring Boot, FastAPI, React, Docker, Redis, OpenAI, ElevenLabs</td>
