@@ -25,6 +25,7 @@
 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
   <br>
@@ -38,6 +39,7 @@
 
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge">
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge">
   <br>
@@ -98,10 +100,10 @@
             <td>25.08 ~ 25.12</td>
         </tr>
         <tr>
-            <td><b>VoiceTwin</b></td>
-            <td>AI 음성 복제 및 실시간 번역 서비스</td>
-            <td>Spring Boot, FastAPI, React, Docker, Redis, OpenAI, ElevenLabs</td>
-            <td>26.02 ~ Now</td>
+          <td><b>VoiceTwin</b></td>
+          <td>AI 음성 복제 및 실시간 번역 서비스 (멀티 서버 아키텍처 기반 AI 워크플로 시스템)</td>
+          <td>Spring Boot, FastAPI, React, Docker, Redis, OpenAI, ElevenLabs, LangGraph</td>
+          <td>26.02 ~ Now</td>
         </tr>
     </tbody>
 </table>
