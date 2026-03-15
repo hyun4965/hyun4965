@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 ### 꾸준히 공부하고, 기록하고, 나누는 개발자입니다.
-
+---
 <br>
 <h3>🛠 Tech Stack & Tools</h3>
 
