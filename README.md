@@ -77,7 +77,7 @@
         </tr>
         <tr>
             <td><b>S-MAP</b></td>
-            <td>제조 생산계획, 납기 리스크, 자재 부족, 라인 병목을 분석하는 RAG 기반 AI 생산관리 챗봇 플랫폼</td>
+            <td>제조 생산계획, 납기 리스크, 자재 부족, 라인 병목을 분석하는 제조 AI </td>
             <td>Spring Boot, Spring Security, JPA, FastAPI, PostgreSQL, Qdrant, OpenAI, bge-m3, RAG, Docker, Kubernetes, GitHub Actions</td>
             <td>26.05 ~ Now</td>
         </tr>
